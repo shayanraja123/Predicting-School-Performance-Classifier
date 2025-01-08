@@ -96,3 +96,10 @@ This project enables:
 5.	**Ethical AI Practices**:
 •	Mitigate biases to ensure equitable outcomes.
 
+---
+
+## 🔗 **Portfolio & Contact**
+
+This project is part of my Data Science Portfolio, showcasing my expertise in tackling real-world problems using data science. For any inquiries or collaborations, feel free to reach out via:
+-	Email: shayan.raja123@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shayanraja

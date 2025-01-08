@@ -86,15 +86,15 @@ This project enables:
 
 ## 💡 Future Directions
 1.	**Addressing Data Imbalance**:
-•	Use advanced sampling techniques (e.g., SMOTE) to balance the dataset.
+Use advanced sampling techniques (e.g., SMOTE) to balance the dataset.
 2.	**Feature Engineering**:
-•	Include additional features such as attendance rates and detailed funding metrics.
+Include additional features such as attendance rates and detailed funding metrics.
 3.	**Advanced Modeling**:
-•	Explore ensemble methods like Random Forests and Gradient Boosted Trees for improved accuracy.
+Explore ensemble methods like Random Forests and Gradient Boosted Trees for improved accuracy.
 4.	**Geographic Adaptability**:
-•	Tailor the model for other regions with different educational standards.
+Tailor the model for other regions with different educational standards.
 5.	**Ethical AI Practices**:
-•	Mitigate biases to ensure equitable outcomes.
+Mitigate biases to ensure equitable outcomes.
 
 ---
 
